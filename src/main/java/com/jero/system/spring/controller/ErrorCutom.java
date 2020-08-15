@@ -1,0 +1,15 @@
+package com.jero.system.spring.controller;
+
+import java.security.Principal;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class ErrorCutom {
+    
+    @GetMapping("/ErrorCustom")
+    public String index(Model model, Principal principal) {
+        return "404";    
+    }    
+}
