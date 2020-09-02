@@ -18,7 +18,7 @@
                             <!-- //footer social icons -->
                             <!-- copyright -->
                             <div class="col-lg-6 copy-right text-center" >
-                                    <p style="color: #fff;font-size: 14px;"> &copy; 2019 JeroSystem. All Rights Reserved | Design by
+                                    <p style="color: #fff;font-size: 14px;"> &copy; 2019 - 2020 JeroSystem. All Rights Reserved | Design by
                                         <a>Jenny Paola Pacheco and Jorge Rojas</a>
                                     </p>
                             </div>
